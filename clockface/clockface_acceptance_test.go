@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"example.com/hello/clockface"
+	"example.com/clockface"
 )
 
 func TestSVGWriterAtMidnight(t *testing.T) {

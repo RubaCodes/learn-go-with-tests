@@ -4,7 +4,7 @@ import (
 	"os"
 	"time"
 
-	"example.com/hello/clockface"
+	"example.com/clockface"
 )
 
 func main() {
