@@ -1,5 +1,5 @@
 // server_integration_test.go
-package main
+package poker
 
 import (
 	"net/http"
